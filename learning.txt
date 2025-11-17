@@ -1,4 +1,4 @@
-git clone https://github.com/your-username/MyFirstRepo.git
+git clone https://github.com/OBM555/MyFirstRepo.git
 cd MyFirstRepo
 # Create the file (Linux/Mac)
 touch learning.txt
@@ -7,4 +7,5 @@ touch learning.txt
 # nano learning.txt
 git add learning.txt
 git commit -m "Added learning.txt with course reflection"
+
 git push origin main
